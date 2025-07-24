@@ -1,6 +1,6 @@
 # AlphaBetaOscillations
 
-Code for [**Alpha and Beta Oscillations Mediate the Effect of Motivation on Neural Coding of Cognitive Flexibility**](https://www.sciencedirect.com/science/article/pii/S0301051125001036?via%3Dihub)
+Code for [**Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility**](https://www.sciencedirect.com/science/article/pii/S0301051125001036?via%3Dihub)
 
 ## Authors
 
@@ -11,3 +11,6 @@ Juan M. Chau<sup>a,b</sup>, Matias J. Ison<sup>a</sup>, Paul S. Muhle-Karbe<sup>
 <sup>d</sup> Department of Experimental Psychology & Oxford Centre for Human Brain Activity, University of Oxford, Oxford, UK<br>
 <sup>e</sup> Department of Psychology and Center for Brain Science, Harvard University, Massachusetts, US<br>
 
+## Cite us :)
+
+Chau, J. M., Ison, M. J., Muhle-Karbe, P. S., Stokes, M. G., Hall-McMaster, S., & Myers, N. E. (2025). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility, Biological Psychology, 200. https://doi.org/10.1016/j.biopsycho.2025.109085
