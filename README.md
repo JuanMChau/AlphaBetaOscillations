@@ -10,7 +10,3 @@ Juan M. Chau<sup>a,b</sup>, Matias J. Ison<sup>a</sup>, Paul S. Muhle-Karbe<sup>
 <sup>c</sup> School of Psychology & Centre for Human Brain Health, University of Birmingham, Birmingham, UK<br>
 <sup>d</sup> Department of Experimental Psychology & Oxford Centre for Human Brain Activity, University of Oxford, Oxford, UK<br>
 <sup>e</sup> Department of Psychology and Center for Brain Science, Harvard University, Massachusetts, US<br>
-
-## Cite us :)
-
-Chau, J. M., Ison, M. J., Muhle-Karbe, P. S., Stokes, M. G., Hall-McMaster, S., & Myers, N. E. (2025). Alpha and beta oscillations mediate the effect of motivation on neural coding of cognitive flexibility, Biological Psychology, 200. https://doi.org/10.1016/j.biopsycho.2025.109085
