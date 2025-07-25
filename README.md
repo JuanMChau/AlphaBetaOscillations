@@ -13,4 +13,4 @@ Juan M. Chau<sup>a,b</sup>, Matias J. Ison<sup>a</sup>, Paul S. Muhle-Karbe<sup>
 
 ## Instructions
 
-Please download the *data_neural* and *data_behavioural* folders from the [original study](https://osf.io/kuzye/files/osfstorage) and place them in the *dropTheDataHere* folder.
+Please download the *data_neural* and *data_behavioural* folders from the [original study](https://osf.io/kuzye/files/osfstorage) and place them in the *dropTheDataHere* folder. Then, remove the placeholder .txt file.
