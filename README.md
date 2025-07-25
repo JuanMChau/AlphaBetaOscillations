@@ -9,4 +9,8 @@ Juan M. Chau<sup>a,b</sup>, Matias J. Ison<sup>a</sup>, Paul S. Muhle-Karbe<sup>
 <sup>b</sup> Departamento de Ingeniería, Pontificia Universidad Católica del Perú, Lima, Peru<br>
 <sup>c</sup> School of Psychology & Centre for Human Brain Health, University of Birmingham, Birmingham, UK<br>
 <sup>d</sup> Department of Experimental Psychology & Oxford Centre for Human Brain Activity, University of Oxford, Oxford, UK<br>
-<sup>e</sup> Department of Psychology and Center for Brain Science, Harvard University, Massachusetts, US<br>
+<sup>e</sup> Department of Psychology and Center for Brain Science, Harvard University, Massachusetts, US<be>
+
+## Instructions
+
+Please download the *data_neural* and *data_behavioural* folders from the [original study](https://osf.io/kuzye/files/osfstorage) and place them in the *dropTheDataHere* folder.
